@@ -80,7 +80,7 @@
     "babel-preset-gatsby": "0.9.1",
     "eslint": "7.16.0",
     "eslint-config-airbnb": "18.2.1",
-    "eslint-config-prettier": "7.1.0",
+    "eslint-config-prettier": "8.3.0",
     "eslint-import-resolver-typescript": "2.3.0",
     "eslint-loader": "4.0.2",
     "eslint-plugin-import": "2.22.1",
